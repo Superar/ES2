@@ -24,3 +24,11 @@ hs_err_pid*
 # eclipse
 .resources
 .settings
+.classpath
+.project
+.sessions.html
+.project
+
+# Projetos específicos
+Identifier
+TaxCalculator/TaxCalculator
